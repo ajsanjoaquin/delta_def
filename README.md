@@ -9,6 +9,6 @@ This leads to models that can generate biased or incorrect information. While fi
 
 Above we provide two notebooks:
 - `Model_adapt_def.ipynb`: This is the main notebook where we experiment with the model's capability to forget meanings
-- `gpt-embeddings.ipynb`: This is our sandbox notebook which contains our experiments to get GPT-2 embeddings
+- `gpt_embedding.ipynb`: This is our sandbox notebook which contains our experiments to get GPT-2 embeddings
 
 The Jupyter notebook is self-explanatory and outlines each section of the project. We recommend you run it on Google Colab, but if you would like to run it on your own computer, use the provided `requirements.txt`.
