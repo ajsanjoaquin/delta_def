@@ -12,3 +12,7 @@ Above we provide a notebook:
 - `dataset.ipynb`: This is the notebook to generate the datasets.
 
 The Jupyter notebook is self-explanatory and outlines each section of the project. We recommend you run it on Google Colab.
+
+The paper we wrote:
+
+[Understanding How Model Size Affects Few-shot Instruction Prompting](https://arxiv.org/abs/2212.01907)
